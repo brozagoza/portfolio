@@ -1,0 +1,202 @@
+{
+  "main": {
+    "name":"Alejandro Zaragoza",
+    "occupation":"Software Engineer",
+    "description":"Currently I'm employed by Adobe where I work as a Computer Scientist developing features for our user experience design application: Adobe XD",
+    "image":"profilepic.jpg",
+    "bio":"I'm a music lover at heart, with an entrepreneurial spirit, and a passion for technology. Having studied Electrical & Computer Engineering in college, I landed my first full time job at Adobe as a Computer Scientist (Software Engineer). Here I work on developing user facing features across our entire tech stack for Adobe XD. In parallel, I’m developing a mobile app for nurses called Nurse Connect. I’m currently pursuing a graduate certificate at Stanford University in Software Systems.",
+    "contactmessage":"Get in contact with me.",
+    "email": "xelazgoza@gmail.com",
+    "phone": "928-750-8029",
+    "address":{
+      "street":"178 Bluxome St",
+      "city":"San Francisco",
+      "state":"CA",
+      "zip": "94107"
+    },
+    "website": "http://www.alejandrozaragoza.com",
+    "resumedownload":"https://drive.google.com/file/d/16YDUQfN42nBjOup7b10V_L7t8KfUhfew/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/sikalexz",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/alejandro-zaragoza",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/brozagoza/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/brozagoza",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of the technologies I have had the most experience using during school, work, and projects.",
+    "education":[
+      {
+        "school":"Stanford University",
+        "degree":"Software Systems Graduate Certificate",
+        "graduated":"January 2019 - Present",
+        "description":"I took advantage of Adobe’s learning fund and began pursuing a graduate certificate in Computer Science with a focus in Software Systems. So far I’ve gotten an in depth overview of the Linux file systems, Multiprocessing and Exceptional Control Flow, Threading and Concurrency, and Networking and Distributed Computing. Every topic included multiple complex programs written in C++. During this, I realized I really enjoy going deep into complex algorithms, writing scalable programs."
+      },
+      {
+        "school":"University of Arizona",
+        "degree":"Bachelors: Electrical & Computer Engineering, Minor: Computer Science",
+        "graduated":"May 2018",
+        "description":"As a child I always enjoyed taking apart electronics such as iPods, DVD players, etc. Eventually I even learned how to put them back together! I decided to study ECE after my first intro courses to C and Java. I loved the challenge and satisfaction of programming, but I still wanted to learn about the physical hardware that would run our software. I learned how to build out a pipelined datapath in verilog for FPGA boards running my assembly code, create a fingerprint lock box using 2 Arduino boards communicating over SPI protocol, took a wide range of classes from Computer Networks to Human Computer Interaction, and much more. My senior year I alone engineered a bracelet that would send a trigger to a mobile app to send the user’s GPS location to trusted contacts over SMS."
+      }
+    ],
+    "work":[
+      {
+        "company":"Adobe",
+        "title":"Computer Scientist (Software Engineer)",
+        "years":"August 2018 - Present",
+        "description":"The product I work on is Adobe XD: a user experience design tool for Mac & Win. Codebase consists of JavaScript, React, C++, and Objective-C. When assigned a feature, we’re required to implement the feature throughout the entire stack for both Mac & Win. This has allowed me to develop and write tests cross-platform.\nMy first big feature was localizing font family names by the user’s locale, and separating font families by region when displaying them in XD. Here I was first introduced to using the V8 engine with JavaScript and C++. Implemented classes and functions to fetch localized names natively on seperate threads at startup of XD, as to not halt usability. I’ve also Implemented keyboard shortcuts, analytics, and much more.\nUsing our tool, I’ve acquired an appreciation for good design and use our tool when designing/mocking up apps before developing."
+      },
+      {
+        "company":"IBM",
+        "title":"Software Engineer (Internship)",
+        "years":"November 2017 - May 2018",
+        "description":"During my final year at UofA, I worked part-time at IBM as an intern to the Device Adapters team for the DS8000 disk storage systems. I contributed to the testing utilities of the storage systems, working in C."
+      },
+      {
+        "company":"American Express",
+        "title":"Software Engineer (Internship)",
+        "years":"November 2017 - May 2018",
+        "description":"The summer before my final year at UofA, I interned at American Express under the Next Generation Data Management team. My project was to create a RESTful API for our language code data. Used Java with Spring MVC, as well as Maven. Wrote documentation, setup proxies, and deployed the API into production by the 8th week. Final 2 weeks were spent implementing testing suites for my API, as well as the previous APIs."
+      },
+      {
+        "company":"Raytheon Missle Systems",
+        "title":"Engineering Solutions (Internship)",
+        "years":"November 2017 - May 2018",
+        "description":"Beginning my 2nd summer through my 3rd year at UofA, I interned for Raytheon Missile Systems in the IT department. I primarily tested software using virtual environments and multiple machines, ensuring that there would be no data leaks or vulnerabilities when using these tools in confidential environments. I would write scripts for engineers to install software with the configurations for a closed-lab. I had the opportunity to author internal guides, and lead presentations and workshops on tools. During my time here, I received a security clearance."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"C & C++",
+        "level":"75%"
+      },
+      {
+        "name":"React Native",
+        "level":"70%"
+      },
+      {
+        "name":"Objective-C",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"20%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"65%"
+      },
+      {
+        "name":"Cocoa",
+        "level":"30%"
+      },
+      {
+        "name":"React Js",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"Verilog",
+        "level":"50%"
+      },
+      {
+        "name":"Assembly",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Nurse Connect",
+        "category":"Social media nurse app for connecting",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ],
+    "realProjects": [
+      {
+        "title":"Nurse Connect",
+        "tech":"JavaScript, React Native, Redux, Expo, Google Firebase",
+        "video":"https://www.youtube.com/embed/NISSqyd-p-k",
+        "description":"Nurse Connect is a social media app for nurse content with posts, messages, events, push notifications, etc. Began this side venture with a friend who has been a traveling nurse for quite some time. I developed and designed the entire app from scratch in React Native with Expo. Using Firebase for authentication, data storage, cloud functions, etc.\nAs of January 2020, we now have outsourced engineers working with me on the project. I’ve been writing stories and tasks and will begin delegating future work.\nGitHub Repo is private"
+      },
+      {
+        "title":"Blare: Life Saving Fashion Jewlry",
+        "tech":"Attiny85 Bluetooth Bracelet with React Native App",
+        "description":"My Senior Year as part of an entrepreneurship program, my team’s startup idea was to create fashionable jewelry wearables that women could wear to help prevent sexual assault. Pressing the button on the wearable will send your location to trusted contacts on your smartphone through SMS when in an unsafe situation. It’s also possible to silently call law enforcement. My team won a few awards from pitch competitions in Arizona.\nThe MVP is a bracelet I soldered myself. It uses an Arduino Attiny85 microcontroller, small lithium-ion battery, and Bluetooth Low Energy beacon to communicate with the mobile app. The mobile app was written in mostly React Native, and the code for the microcontroller was in C++.\nRepository is on my GitHub. GitHub Pages page coming soon***."
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
