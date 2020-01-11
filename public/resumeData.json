@@ -2,7 +2,7 @@
   "main": {
     "name":"Alejandro Zaragoza",
     "occupation":"Software Engineer",
-    "description":"Currently I'm employed by Adobe where I work as a Computer Scientist developing features for our user experience design application: Adobe XD",
+    "description":"I'm employed by Adobe where I work as a Computer Scientist developing features for our user experience design application: Adobe XD",
     "image":"profilepic.jpg",
     "bio":"I'm a music lover at heart, with an entrepreneurial spirit, and a passion for technology. Having studied Electrical & Computer Engineering in college, I landed my first full time job at Adobe as a Computer Scientist (Software Engineer). Here I work on developing user facing features across our entire tech stack for Adobe XD. In parallel, I’m developing a mobile app for nurses called Nurse Connect. I’m currently pursuing a graduate certificate at Stanford University in Software Systems.",
     "contactmessage":"Get in contact with me.",
@@ -71,13 +71,13 @@
       {
         "company":"American Express",
         "title":"Software Engineer (Internship)",
-        "years":"November 2017 - May 2018",
+        "years":"June 2017 - Aug 2017",
         "description":"The summer before my final year at UofA, I interned at American Express under the Next Generation Data Management team. My project was to create a RESTful API for our language code data. Used Java with Spring MVC, as well as Maven. Wrote documentation, setup proxies, and deployed the API into production by the 8th week. Final 2 weeks were spent implementing testing suites for my API, as well as the previous APIs."
       },
       {
         "company":"Raytheon Missle Systems",
         "title":"Engineering Solutions (Internship)",
-        "years":"November 2017 - May 2018",
+        "years":"July 2016 - June 2017",
         "description":"Beginning my 2nd summer through my 3rd year at UofA, I interned for Raytheon Missile Systems in the IT department. I primarily tested software using virtual environments and multiple machines, ensuring that there would be no data leaks or vulnerabilities when using these tools in confidential environments. I would write scripts for engineers to install software with the configurations for a closed-lab. I had the opportunity to author internal guides, and lead presentations and workshops on tools. During my time here, I received a security clearance."
       }
     ],
@@ -113,6 +113,14 @@
       {
         "name":"Node.js",
         "level":"65%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
       },
       {
         "name":"Cocoa",
